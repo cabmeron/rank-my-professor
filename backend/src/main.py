@@ -3,35 +3,28 @@ from env import *
 from scrape import *
 from functools import cache
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from data_loader import load_school_json_file
 
+origins = [ "http://127.0.0.1:5500" ]
 app = FastAPI()
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"]
+)
 
 @app.get('/')
 def root():
     return "Hello World"
 
-@app.get('/schools/unr/cse')
+@app.get('/schools/{college}/{department}')
+def get_college_employees(college: str, department: str):
 
-def get_unr_cse_employees():
-
-    data = load_school_json_file('../data/colleges/unr/COE_scraped_formatted')
-
-    profiles = []
-    
-    for profile in data['profiles']:
-        for author in profile['authors']:
-            profiles.append(
-                (
-                    author['cited_by'],
-                    author['name'],
-                    author['link']
-                )
-            )
-    
-    sorted_profiles = sorted(profiles, key=lambda tup: -tup[0])
-
-    return sorted_profiles
+    data = load_school_json_file('unr-cse')
+    return data
 
 @app.get('/schools/unr/CoE')
 def get_unr_cse():
