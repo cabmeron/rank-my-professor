@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rank My Professor</title>
+    <link rel="stylesheet" hrel="./index.css">
+</head>
+
+<body>
+
+    <header class="header-v1">
+            <h1> Rank My Professor</h1>
+            <p> sorting university professors via # of citations </p>
+    </header>
+
+    <nav>
+        <select>
+            <option>University of Nevada, Reno</option>
+        </select>
+        <button> Submit </button>
+    </nav>
+
+    <section>
+        <h3> Computer Science & Engineering </h3>
+        <table id="cse-table">
+            
+        </table>
+    </section>
+    
+</body>
+
+<style>
+
+    body{
+        margin-left: auto;
+        margin-right: auto;
+        width: 20em;
+    }
+
+</style>
+
+<script>
+
+    document.addEventListener("DOMContentLoaded", get_json_data, false);
+
+    async function get_json_data()
+    {
+        var fetch_meta_data = { mode: 'cors', headers: {'Access-Control-Allow-Origin': '*'} }
+        var url = "http://127.0.0.1:8000/schools/unr/cse";
+
+        try
+        {
+            const response = await fetch(url);
+
+            if(!response.ok)
+            {
+                throw new Error(`Response Status: ${response.status}`);
+            }
+
+            const json = await response.json();
+
+            console.log(json);
+
+            append_json_data(json);
+
+        }
+        catch(e)
+        {
+            console.error(e);
+        }
+        
+    }
+
+    function append_json_data(data)
+    {
+        var table = document.getElementById('cse-table');
+
+        data.forEach((object) => {
+            var tr = document.createElement('tr');
+            tr.innerHTML = 
+            '<td>' + object.name + '</td>' + 
+            '<td>' + object.cited_by + '</td>' +
+            '<td>' + `<a target="_blank" rel="noopener noreferrer" href="${object.gs_link}"> profile </a>` + '</td>'
+            table.appendChild(tr);
+        })
+    }
+
+</script>
+
+</html>
