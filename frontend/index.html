@@ -4,39 +4,50 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rank My Professor</title>
+    <title>Professor Nobility</title>
     <link rel="stylesheet" hrel="./index.css">
 </head>
 
 <body>
 
-    <header class="header-v1">
-            <h1> Rank My Professor</h1>
-            <p> sorting university professors via # of citations </p>
-    </header>
+    <section id="header">
+        <header>
+                <h1> Rank My Professor</h1>
+                <p> sorting university professors via # of citations </p>
+        </header>
 
-    <nav>
-        <select>
-            <option>University of Nevada, Reno</option>
-        </select>
-        <button> Submit </button>
-    </nav>
+        <nav>
+            <select>
+                <option>University of Nevada, Reno</option>
+            </select>
+            <button> Submit </button>
+        </nav>
+    </section>
 
     <section>
-        <h3> Computer Science & Engineering </h3>
-        <table id="cse-table">
+        <div id="scroll">
+            <h3> Computer Science & Engineering </h3>
+            <table id="cse-table"> </table>
             
-        </table>
+            <h3> Civil & Environmental Engineering</h3>
+            <table id="cee-table"></table>
+
+            <h3> Chemical and Materials Engineering</h3>
+            <table id="cheme-table"></table>
+        </div>
     </section>
     
 </body>
 
 <style>
 
+    #header { overflow: hidden; background-color: white; margin-bottom: 10px; }
+    #scroll { overflow-y: auto; height: 80vh; scrollbar-width: thin; }
+
     body{
         margin-left: auto;
         margin-right: auto;
-        width: 20em;
+        width: 23em;
     }
 
 </style>
@@ -44,6 +55,8 @@
 <script>
 
     document.addEventListener("DOMContentLoaded", get_json_data, false);
+    document.addEventListener("DOMContentLoaded", get_json_data2, false);
+    document.addEventListener("DOMContentLoaded", get_json_data3, false);
 
     async function get_json_data()
     {
@@ -63,7 +76,7 @@
 
             console.log(json);
 
-            append_json_data(json);
+            append_json_data(json, 'cse-table');
 
         }
         catch(e)
@@ -73,9 +86,66 @@
         
     }
 
-    function append_json_data(data)
+    async function get_json_data2()
+    
     {
-        var table = document.getElementById('cse-table');
+        var fetch_meta_data = { mode: 'cors', headers: {'Access-Control-Allow-Origin': '*'} }
+        var url = "http://127.0.0.1:8000/schools/unr/cee";
+
+        try
+        {
+            const response = await fetch(url);
+
+            if(!response.ok)
+            {
+                throw new Error(`Response Status: ${response.status}`);
+            }
+
+            const json = await response.json();
+
+            console.log(json);
+
+            append_json_data(json, 'cee-table');
+
+        }
+        catch(e)
+        {
+            console.error(e);
+        }
+        
+    }
+
+    async function get_json_data3()
+    {
+        var fetch_meta_data = { mode: 'cors', headers: {'Access-Control-Allow-Origin': '*'} }
+        var url = "http://127.0.0.1:8000/schools/unr/cheme";
+
+        try
+        {
+            const response = await fetch(url);
+
+            if(!response.ok)
+            {
+                throw new Error(`Response Status: ${response.status}`);
+            }
+
+            const json = await response.json();
+
+            console.log(json);
+
+            append_json_data(json, 'cheme-table');
+
+        }
+        catch(e)
+        {
+            console.error(e);
+        }
+        
+    }
+
+    function append_json_data(data, table_id)
+    {
+        var table = document.getElementById(table_id);
 
         data.forEach((object) => {
             var tr = document.createElement('tr');
