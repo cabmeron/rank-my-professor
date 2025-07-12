@@ -1,0 +1,2122 @@
+{
+  "University of Nevada, Reno": {
+    "College of Agriculture, Biotechnology, and Natural Resources": {
+      "Office of the Dean and College Leadership": [
+        {
+          "name": "Bill Payne",
+          "title": "Dean"
+        },
+        {
+          "name": "Claus Tittiger",
+          "title": "Associate Dean of Academic Affairs"
+        },
+        {
+          "name": "Chris Pritsos",
+          "title": "Experiment Station Director & Associate Dean of Research"
+        },
+        {
+          "name": "Jacob DeDecker",
+          "title": "Extension Director & Associate Dean Engagement"
+        },
+        {
+          "name": "Katie Jameson",
+          "title": "Assistant Dean - Chief Business Affairs Officer"
+        },
+        {
+          "name": "Dawna Snyder",
+          "title": "Director of Extended Studies"
+        },
+        {
+          "name": "Elizabeth Sedano",
+          "title": "Director of Advising, Recruitment & Retention"
+        },
+        {
+          "name": "Robin Schimandle",
+          "title": "Director of Development"
+        },
+        {
+          "name": "Verla Jackson",
+          "title": "Human Resources Manager"
+        }
+      ],
+      "Department of Agriculture, Veterinary & Rangeland Sciences": [
+        {
+          "name": "Mike Teglas, DVM",
+          "title": "Associate Professor, Department Chair"
+        },
+        {
+          "name": "Alejandro Andrade-Rodriguez",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Felipe Barrios Masias",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Bob Conrad",
+          "title": "Professor"
+        },
+        {
+          "name": "Amilton de Mello",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Yvette Gibson",
+          "title": "Instructor (Admin Faculty)"
+        },
+        {
+          "name": "Andrew Hess",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Paul Meiman",
+          "title": "Associate Professor, Extension Specialist"
+        },
+        {
+          "name": "Charmayne Mitchell",
+          "title": "Master Teacher, NevadaTeach Program"
+        },
+        {
+          "name": "Lesley Morris",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Most Tahera Naznin",
+          "title": "Associate Professor of Urban & Indoor Agriculture"
+        },
+        {
+          "name": "Andrew Nuss",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Lucas Phipps",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Hannah Rodriguez",
+          "title": "Teaching Assistant Professor"
+        },
+        {
+          "name": "Patricia Ferreira dos Santos",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Luis Schütz",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Juan Solomon",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Tamzen Stringham",
+          "title": "Professor"
+        },
+        {
+          "name": "Robert Washington-Allen",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Melinda Yerka",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Sherm Swanson",
+          "title": "Emeritus"
+        }
+      ],
+      "Department of Biochemistry & Molecular Biology": [
+        {
+          "name": "Justin Legleiter",
+          "title": "Department Chair"
+        },
+        {
+          "name": "David Shintani",
+          "title": "Vice Provost of Undergraduate Education"
+        },
+        {
+          "name": "Claus Tittiger",
+          "title": "Associate Dean of Academic Affairs"
+        },
+        {
+          "name": "Bob Ryan",
+          "title": "Professor, Interim NRES Department Chair"
+        },
+        {
+          "name": "Monika Gulia-Nuss",
+          "title": "Associate Professor & Graduate Program Director, Biochemistry"
+        },
+        {
+          "name": "Karla Hernández",
+          "title": "Teaching Assistant Professor, Director of Biotechnology Program"
+        },
+        {
+          "name": "Scott Barnett",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Won-Gyu Choi",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "John Cushman",
+          "title": "Professor"
+        },
+        {
+          "name": "Hanna Damke",
+          "title": "Assistant Professor & Student Advisor"
+        },
+        {
+          "name": "Trish Ellison",
+          "title": "Teaching Professor"
+        },
+        {
+          "name": "Jeff Harper",
+          "title": "Professor"
+        },
+        {
+          "name": "Dylan Kosma",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Marina Maclean",
+          "title": "Teaching Assistant Professor"
+        },
+        {
+          "name": "Mitchell Omar",
+          "title": "Assistant Professor, Human Health and Disease"
+        },
+        {
+          "name": "Claudia Rückert",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Silvia Stan",
+          "title": "Research Associate Professor"
+        },
+        {
+          "name": "Won Yim",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Meet Zandawala",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Gary Blomquist",
+          "title": "Emeritus Professor"
+        },
+        {
+          "name": "Grant Cramer",
+          "title": "Professor Emeritus"
+        },
+        {
+          "name": "Christie Howard",
+          "title": "Emeritus Associate Professor"
+        }
+      ],
+      "Department of Natural Resources & Environmental Science": [
+        {
+          "name": "Bob Ryan",
+          "title": "Professor, Interim NRES Department Chair"
+        },
+        {
+          "name": "Marjorie Matocq",
+          "title": "Professor, Population & Evolutionary Genetics and Director of the Ecology, Evolution and Conservation Biology graduate program"
+        },
+        {
+          "name": "Sarah Bisbing",
+          "title": "Associate Professor, Whittell Forest & Wildlife Area Director"
+        },
+        {
+          "name": "Jeff Falke",
+          "title": "Unit Leader, Nevada Cooperative Fish and Wildlife Research Unit"
+        },
+        {
+          "name": "Scott Allen",
+          "title": "Assistant Professor, Ecohydrology & Physiological Ecology"
+        },
+        {
+          "name": "Erica Bigio",
+          "title": "Teaching Assistant Professor & Academic Advisor"
+        },
+        {
+          "name": "Franco Biondi",
+          "title": "Professor, Ecoclimatology/Tree Rings"
+        },
+        {
+          "name": "Joanna Blaszczak",
+          "title": "Associate Professor, Freshwater Ecology & Biogeochemistry"
+        },
+        {
+          "name": "Hall Cushman",
+          "title": "Professor, Community & Climate-Change Ecology"
+        },
+        {
+          "name": "Brian Folt",
+          "title": "Nevada Cooperative Fish and Wildlife Research Unit | Assistant Unit Leader"
+        },
+        {
+          "name": "Jonathan Greenberg",
+          "title": "Associate Professor, Remote Sensing"
+        },
+        {
+          "name": "Mae Gustin",
+          "title": "Professor, Environmental Geochemistry"
+        },
+        {
+          "name": "Erin Hanan",
+          "title": "Associate Professor, Fire & Ecosystem Ecology"
+        },
+        {
+          "name": "Adrian Harpold",
+          "title": "Associate Professor, Mountain Ecohydrology"
+        },
+        {
+          "name": "Chuck Levitan",
+          "title": "Temporary Faculty - Teaching"
+        },
+        {
+          "name": "Charmayne Mitchell",
+          "title": "Master Teacher, NevadaTeach Program"
+        },
+        {
+          "name": "Kevin Shoemaker",
+          "title": "Associate Professor, Applied Population Ecology"
+        },
+        {
+          "name": "Robert Shriver",
+          "title": "Assistant Professor, Plant Ecology & Population Biology"
+        },
+        {
+          "name": "Kelley Stewart",
+          "title": "Professor, Wildlife Ecology"
+        },
+        {
+          "name": "Julie Stoughton",
+          "title": "Lecturer III & Academic Advisor"
+        },
+        {
+          "name": "Benjamin Sullivan",
+          "title": "Associate Professor, Applied Soil Ecology"
+        },
+        {
+          "name": "Paul Verburg",
+          "title": "Associate Professor, Soil Science"
+        },
+        {
+          "name": "Peter Weisberg",
+          "title": "Professor, Landscape Ecology"
+        },
+        {
+          "name": "Perry Williams",
+          "title": "Associate Professor, Statistical Ecology"
+        }
+      ]
+    },
+    "College of Business": {
+      "Office of the Dean and College Leadership": [
+        {
+          "name": "Gregory Mosier",
+          "title": "Dean of The College of Business"
+        },
+        {
+          "name": "Kambiz Raffiee",
+          "title": "Associate Dean for Graduate Programs & Research, Director of the MBA and Online Executive MBA (EMBA) Programs"
+        },
+        {
+          "name": "Jasmine Stanley",
+          "title": "Assistant Dean, Business Operations"
+        },
+        {
+          "name": "Jeremy Tiedt",
+          "title": "Assistant Dean, Undergraduate Student Success"
+        },
+        {
+          "name": "Frederick Steinmann",
+          "title": "Assistant Research Professor, Director of the University Center for Economic Development"
+        }
+      ],
+      "Faculty of Accounting": [
+        {
+          "name": "Jeffrey Wong",
+          "title": "Professor and Chair of Accounting"
+        },
+        {
+          "name": "Sonja Pippin",
+          "title": "Professor of Accounting, MAcc Program Director"
+        },
+        {
+          "name": "Nicholas Hunt",
+          "title": "Associate Professor of Accounting"
+        },
+        {
+          "name": "Mark Jackson",
+          "title": "Associate Professor of Accounting"
+        },
+        {
+          "name": "Chuong Do",
+          "title": "Assistant Professor of Accounting"
+        },
+        {
+          "name": "Savannah Guo",
+          "title": "Assistant Professor of Accounting"
+        },
+        {
+          "name": "Matthew Hayes",
+          "title": "Assistant Professor of Accounting"
+        },
+        {
+          "name": "Brett Rixom, Ph.D., CPA",
+          "title": "Assistant Professor"
+        }
+      ],
+      "Faculty of Economics": [
+        {
+          "name": "Elliott Parker",
+          "title": "Professor and Chair of Economics"
+        },
+        {
+          "name": "Frank Fossen",
+          "title": "Professor of Economics, Charles N. Mathewson Professorship in Entrepreneurship"
+        },
+        {
+          "name": "Mark Pingle",
+          "title": "Professor of Economics, E.L. Cord Endowed Professorship in Entrepreneurship"
+        },
+        {
+          "name": "Sankar Mukhopadhyay",
+          "title": "Professor of Economics"
+        },
+        {
+          "name": "Loretta Singletary",
+          "title": "Professor of Economics, Interdisciplinary Outreach Liaison"
+        },
+        {
+          "name": "Shunfeng Song",
+          "title": "Professor of Economics"
+        },
+        {
+          "name": "Mehmet Tosun",
+          "title": "Professor of Economics, Barbara Smith Campbell Distinguished Professor of Nevada Tax Policy"
+        },
+        {
+          "name": "Federico Guerrero",
+          "title": "Associate Professor of Economics"
+        },
+        {
+          "name": "Michael H. Taylor",
+          "title": "Associate Professor of Economics, State Specialist - Agricultural & Resource Economics, Director of Economics Graduate Programs"
+        },
+        {
+          "name": "Jingjing Yang",
+          "title": "Associate Professor of Economics"
+        },
+        {
+          "name": "Andrew Ayres",
+          "title": "Assistant Professor of Economics"
+        },
+        {
+          "name": "Pierce Donovan",
+          "title": "Assistant Professor of Economics"
+        },
+        {
+          "name": "Marcelo Ariel Fernandez",
+          "title": "Assistant Professor of Economics"
+        },
+        {
+          "name": "Kym Pram",
+          "title": "Assistant Professor of Economics"
+        },
+        {
+          "name": "Anna Sokolova",
+          "title": "Assistant Professor of Economics"
+        },
+        {
+          "name": "Dilek Uz",
+          "title": "Assistant Professor of Economics"
+        },
+        {
+          "name": "Anne Carpenter",
+          "title": "Teaching Assistant Professor of Economics"
+        },
+        {
+          "name": "Katherine Lacy",
+          "title": "Teaching Assistant Professor of Economics"
+        }
+      ],
+      "Faculty of Finance": [
+        {
+          "name": "Qun Wu",
+          "title": "Professor of Finance; Chair, Department of Finance"
+        },
+        {
+          "name": "Chunlin Liu",
+          "title": "Professor of Finance"
+        },
+        {
+          "name": "Rahul Bhargava",
+          "title": "Associate Professor of Finance"
+        },
+        {
+          "name": "Joseph Halford",
+          "title": "Associate Professor of Finance, Director of PhD in Finance Program"
+        },
+        {
+          "name": "Serhat Yildiz",
+          "title": "Associate Professor of Finance"
+        },
+        {
+          "name": "Hongchao Zeng",
+          "title": "Associate Professor of Finance, Director of MS Finance Program"
+        },
+        {
+          "name": "Shaddy Douidar",
+          "title": "Assistant Professor of Finance"
+        },
+        {
+          "name": "Yifei Li",
+          "title": "Assistant Professor of Finance"
+        },
+        {
+          "name": "Sean Wilkoff",
+          "title": "Assistant Professor of Finance"
+        },
+        {
+          "name": "David Cisneros",
+          "title": "Lecturer/Director of Risk & Insurance Professional Studies"
+        }
+      ],
+      "Faculty of Information Systems": [
+        {
+          "name": "Jason A. Talaei",
+          "title": "Department Chair and Associate Professor of Information Systems"
+        },
+        {
+          "name": "K.D. Joshi",
+          "title": "Professor Information Systems"
+        },
+        {
+          "name": "Arash Barfar",
+          "title": "Associate Professor of Information Systems, Director of PhD in Information Systems Program"
+        },
+        {
+          "name": "David T. Croasdell",
+          "title": "Associate Professor of Information Systems"
+        },
+        {
+          "name": "Dana Edberg",
+          "title": "Associate Professor of Information Systems, Director of MSIS Program"
+        },
+        {
+          "name": "Mala Kaul",
+          "title": "Associate Professor of Information Systems"
+        },
+        {
+          "name": "Fatima Mohammed",
+          "title": "Assistant Professor, Information Systems"
+        },
+        {
+          "name": "Alan Yang",
+          "title": "Assistant Professor of Information Systems, Director of MSBA Program"
+        },
+        {
+          "name": "Wes Cox",
+          "title": "Lecturer of Information Systems"
+        },
+        {
+          "name": "Adam Reed",
+          "title": "Lecturer of Information Systems"
+        },
+        {
+          "name": "JT Stark",
+          "title": "EMBA, MSBA and Information Systems Instructor"
+        }
+      ],
+      "Faculty of Management": [
+        {
+          "name": "Bret Simmons",
+          "title": "Associate Professor and Chair of Management"
+        },
+        {
+          "name": "Rafik Beekun",
+          "title": "Professor of Management, Ethics and Strategy"
+        },
+        {
+          "name": "Fran McKee-Ryan",
+          "title": "Professor of Management"
+        },
+        {
+          "name": "James Sundali",
+          "title": "Professor of Strategic Management"
+        },
+        {
+          "name": "Jinyu Hu",
+          "title": "Associate Professor of Management"
+        },
+        {
+          "name": "Dan Jones",
+          "title": "Associate Professor of Management, Director of Ph.D. in Business Administration Program"
+        },
+        {
+          "name": "Garret Ridinger",
+          "title": "Associate Professor of Management"
+        },
+        {
+          "name": "Kathryn Coll",
+          "title": "Assistant Professor of Management"
+        },
+        {
+          "name": "Alexis Hanna",
+          "title": "Assistant Professor of Management"
+        },
+        {
+          "name": "Annie Kim",
+          "title": "Assistant Professor of Management"
+        },
+        {
+          "name": "Sabrina Li",
+          "title": "Assistant Professor, Management"
+        },
+        {
+          "name": "Cary Groth",
+          "title": "Director, Sports Management Programs"
+        },
+        {
+          "name": "Samantha Bickert",
+          "title": "Lecturer II, Management"
+        },
+        {
+          "name": "Joseph E. Ray",
+          "title": "Lecturer of Management"
+        }
+      ],
+      "Faculty of Marketing": [
+        {
+          "name": "Ron Lembke",
+          "title": "Department Chair, Professor, Supply Chain Management and Business Analytics"
+        },
+        {
+          "name": "James M. Leonhardt",
+          "title": "Professor of Marketing, Phil and Jennifer Satre Professor of Marketing"
+        },
+        {
+          "name": "Thomas Burnham",
+          "title": "Associate Professor of Marketing, Mick Hitchcock PhD Endowed Professorship in Entrepreneurship"
+        },
+        {
+          "name": "Bret Leary",
+          "title": "Associate Professor of Marketing"
+        },
+        {
+          "name": "Igor Makienko",
+          "title": "Associate Professor of Marketing"
+        },
+        {
+          "name": "Jae-eun Namkoong",
+          "title": "Associate Professor of Marketing"
+        },
+        {
+          "name": "Sandun Perera",
+          "title": "Associate Professor of Business Analytics and Operations"
+        },
+        {
+          "name": "Jessica Rixom",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Deepika Naidu",
+          "title": "Assistant Professor of Marketing"
+        },
+        {
+          "name": "Armina Karapetian",
+          "title": "Teaching Associate Professor of Marketing, The Charles and Ruth Hopping Professorship in Entrepreneurship"
+        }
+      ]
+    },
+    "College of Education and Human Development": {
+      "College Leadership": [
+        {
+          "name": "Donald Easton-Brooks",
+          "title": "Dean"
+        },
+        {
+          "name": "Lindsay Diamond",
+          "title": "Associate Dean of Research and Graduate Programs and Associate Professor of Special Education"
+        },
+        {
+          "name": "Shanon Taylor",
+          "title": "Interim Associate Dean of Undergraduate Affairs and Professor of Special Education"
+        }
+      ],
+      "Department of Human Development, Family Science, and Counseling": [
+        {
+          "name": "Melissa Burnham, Ph.D.",
+          "title": "Department Chair and Professor of Human Development, Family Science and Counseling; and Executive Coordinator of the Child & Family Research Center"
+        },
+        {
+          "name": "Hyun-Joo Jeon, Ph.D.",
+          "title": "Professor of Human Development and Family Science"
+        },
+        {
+          "name": "Bridget Walsh, Ph.D., CFLE",
+          "title": "Professor of Human Development and Family Science"
+        },
+        {
+          "name": "Lydia DeFlorio, Ph.D.",
+          "title": "Associate Professor of Human Development and Family Science"
+        },
+        {
+          "name": "Kristina DePue, Ph.D., NCC",
+          "title": "Associate Professor of Counselor Education"
+        },
+        {
+          "name": "Sam Ehrenreich, Ph.D.",
+          "title": "Associate Professor, Human Development and Family Science"
+        },
+        {
+          "name": "Jennifer McClendon, M.S.W., Ph.D.",
+          "title": "Associate Professor of Human Development and Family Science"
+        },
+        {
+          "name": "Pamela Payne, Ph.D., CFLE",
+          "title": "Associate Professor of Human Development and Family Science"
+        },
+        {
+          "name": "Carly Boren, Ph.D., NCC",
+          "title": "Assistant Professor of Counselor Education"
+        },
+        {
+          "name": "Sarah Mitchell, Ph.D., CFLE",
+          "title": "Assistant Professor of Human Development and Family Science"
+        },
+        {
+          "name": "Jennifer Mortensen, Ph.D., CFLE",
+          "title": "Assistant Professor of Human Development and Family Science"
+        },
+        {
+          "name": "Tricia Woodliff, Ph.D., CPC, NCC",
+          "title": "Assistant Professor of Counselor Education"
+        },
+        {
+          "name": "Norris DuPree, Ph.D., MFT, LADAC",
+          "title": "Teaching Assistant Professor of Counselor Education"
+        },
+        {
+          "name": "Monty Minter, Ph.D., CPC",
+          "title": "Teaching Assistant Professor of Counselor Education and Clinic Director of the Downing Counseling Clinic"
+        },
+        {
+          "name": "Jenna Dewar, M.S., CFLE",
+          "title": "Senior Lecturer of Human Development and Family Science"
+        }
+      ],
+      "Department of Educator Preparation (Special Education)": [
+        {
+          "name": "MaryAnn Demchak, Ph.D., BCBA-D",
+          "title": "Professor of Special Education"
+        },
+        {
+          "name": "Shanon Taylor",
+          "title": "Interim Associate Dean of Undergraduate Affairs and Professor of Special Education"
+        },
+        {
+          "name": "Lindsay Diamond",
+          "title": "Associate Dean of Research and Graduate Programs and Associate Professor of Special Education"
+        },
+        {
+          "name": "Randall Owen",
+          "title": "Associate Professor of Special Education, NCED Director"
+        },
+        {
+          "name": "R. Ives",
+          "title": "Associate Professor of Special Education"
+        },
+        {
+          "name": "Ruby Batz-Herrera",
+          "title": "Assistant Professor of Special Education"
+        },
+        {
+          "name": "Sara Vega",
+          "title": "Lecturer II, Elementary Special Education"
+        }
+      ]
+    },
+    "College of Engineering": {
+      "Office of the Dean": [
+        {
+          "name": "Erick Jones",
+          "title": "Dean"
+        },
+        {
+          "name": "Indira Chatterjee",
+          "title": "Interim Dean; Foundation Professor of Electrical & Biomedical Engineering"
+        },
+        {
+          "name": "Fred Harris, Jr.",
+          "title": "Associate Dean of Faculty and Academic Affairs; Foundation Professor of Computer Science & Engineering"
+        },
+        {
+          "name": "Brandon Weeks",
+          "title": "Associate Dean of Research; Professor of Chemical Engineering"
+        },
+        {
+          "name": "Candice Bauer",
+          "title": "Assistant Dean for Assessment, Compliance and Evaluation; Associate Teaching Professor"
+        },
+        {
+          "name": "Elena Tchigriaeva",
+          "title": "Assistant Dean, Administration"
+        }
+      ],
+      "Department of Chemical and Materials Engineering": [
+        {
+          "name": "Victor R. Vasquez",
+          "title": "Professor and Chair"
+        },
+        {
+          "name": "Vaidyanathan (Ravi) Subramanian",
+          "title": "Associate Professor, Director of the Ozmen Institute for Global Studies"
+        },
+        {
+          "name": "Dev Chidambaram",
+          "title": "Professor"
+        },
+        {
+          "name": "Charles Coronella",
+          "title": "Professor"
+        },
+        {
+          "name": "Manoranjan Misra",
+          "title": "Professor"
+        },
+        {
+          "name": "Brandon Weeks",
+          "title": "Associate Dean of Research; Professor of Chemical Engineering"
+        },
+        {
+          "name": "David Cantu",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Krista Carlson",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Sage R. Hiibel",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Maryam Raeeszadeh-Sarmazdeh",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Ming Chen",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "M. Rashed Khan",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Jeremy Moon",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Mike Kivistik",
+          "title": "CCHO, Instructor"
+        },
+        {
+          "name": "Nick Tsoulfanidis",
+          "title": "Instructor"
+        }
+      ],
+      "Department of Civil and Environmental Engineering": [
+        {
+          "name": "Keri Ryan",
+          "title": "E.W. McKenzie Foundation Endowed Professor and Chair"
+        },
+        {
+          "name": "Eric Marchand",
+          "title": "Professor, Associate Chair for Undergraduate Affairs"
+        },
+        {
+          "name": "Gokhan Pekcan",
+          "title": "Professor; Graduate Program Director; Associate Chair for Graduate Affairs"
+        },
+        {
+          "name": "Adam Hand",
+          "title": "Professor"
+        },
+        {
+          "name": "Krishna Pagilla",
+          "title": "Ralph & Rose Hoeper Engineering Professor; Foundation Professor; Director, Nevada Water Innovation Institute"
+        },
+        {
+          "name": "Zong Tian",
+          "title": "Professor"
+        },
+        {
+          "name": "Hao Xu",
+          "title": "Professor"
+        },
+        {
+          "name": "Yu (Frank) Yang",
+          "title": "Professor"
+        },
+        {
+          "name": "Keith Dennett",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Floriana Petrone",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Mostafa Tazarv",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Elnaz Esmaeilzadeh Seylabi",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Ben Ma",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Renmin Pretell",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Brad P. Wham",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Taylor Larson",
+          "title": "Lecturer"
+        },
+        {
+          "name": "Sherif Elfass",
+          "title": "Research Associate Professor"
+        },
+        {
+          "name": "Patrick Laplace",
+          "title": "Research Associate Professor"
+        },
+        {
+          "name": "Ian Buckle",
+          "title": "Foundation Professor, Emeritus"
+        },
+        {
+          "name": "Ahmad M. Itani",
+          "title": "Foundation Professor, Emeritus"
+        },
+        {
+          "name": "Manos Maragakis",
+          "title": "Foundation Professor, Emeritus"
+        },
+        {
+          "name": "M. \"Saiid\" Saiidi",
+          "title": "Foundation Professor, Emeritus"
+        },
+        {
+          "name": "Raj Siddharthan",
+          "title": "Professor, Emeritus"
+        }
+      ],
+      "Department of Computer Science and Engineering": [
+        {
+          "name": "Eelke Folmer",
+          "title": "Professor and Chair"
+        },
+        {
+          "name": "George Bebis",
+          "title": "Foundation Professor"
+        },
+        {
+          "name": "Fred Harris, Jr.",
+          "title": "Associate Dean of Faculty and Academic Affairs; Foundation Professor of Computer Science & Engineering"
+        },
+        {
+          "name": "Sushil Louis",
+          "title": "Professor"
+        },
+        {
+          "name": "Shamik Sengupta",
+          "title": "Professor; Ralph E. and Rose A. Hoeper Professor; Executive Director, Cybersecurity Center"
+        },
+        {
+          "name": "Alireza Tavakkoli",
+          "title": "Professor"
+        },
+        {
+          "name": "Sergiu Dascalu",
+          "title": "Professor"
+        },
+        {
+          "name": "David Feil-Seifer",
+          "title": "Professor"
+        },
+        {
+          "name": "Mircea Nicolescu",
+          "title": "Professor"
+        },
+        {
+          "name": "Monica Nicolescu",
+          "title": "Professor, Undergraduate Director"
+        },
+        {
+          "name": "Emily Hand",
+          "title": "Associate Professor, Graduate Director"
+        },
+        {
+          "name": "Hung (Jim) La",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Christos Papachristos",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Lei Yang",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Bashira Akter Anima",
+          "title": "Assistant Teaching Professor"
+        },
+        {
+          "name": "Rui (Zoey) Hu",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Ping Liu",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Parikshit Maini",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Ankita Shukla",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Xiaoxue Zhang",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Nancy LaTourrette",
+          "title": "Senior Lecturer; Deputy Director, Cybersecurity Center"
+        },
+        {
+          "name": "Erin Keith",
+          "title": "Lecturer II"
+        },
+        {
+          "name": "Josh Watson",
+          "title": "Lecturer on Digital Forensics"
+        },
+        {
+          "name": "Raul Rojas",
+          "title": "Affiliate faculty"
+        },
+        {
+          "name": "Yantao Shen",
+          "title": "Affiliate faculty"
+        },
+        {
+          "name": "Carl Looney",
+          "title": "Emeritus Faculty"
+        },
+        {
+          "name": "Yaakov Varol",
+          "title": "Emeritus Faculty"
+        }
+      ],
+      "Department of Electrical and Biomedical Engineering": [
+        {
+          "name": "M. Sami Fadali",
+          "title": "Professor and Chair"
+        },
+        {
+          "name": "Indira Chatterjee",
+          "title": "Interim Dean; Foundation Professor of Electrical & Biomedical Engineering"
+        },
+        {
+          "name": "Sesh Commuri",
+          "title": "Professor"
+        },
+        {
+          "name": "Mehdi Etezadi-Amoli",
+          "title": "Professor"
+        },
+        {
+          "name": "Jeongwon Park",
+          "title": "Professor"
+        },
+        {
+          "name": "Bahram Parvin",
+          "title": "Professor"
+        },
+        {
+          "name": "Yantao Shen",
+          "title": "Professor"
+        },
+        {
+          "name": "Xiaoshan Zhu",
+          "title": "Professor"
+        },
+        {
+          "name": "Josette El Zaklit",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Poria Fajri",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Adam Kirn",
+          "title": "Associate Professor of Engineering Education"
+        },
+        {
+          "name": "Hanif Livani",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Hao Xu",
+          "title": "Associate Professor; Ralph E. and Rose A. Hoeper Professor"
+        },
+        {
+          "name": "Jihwan Yoon",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Xingang Fu",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Mahdi Mehrtash",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Ryan Schoenfeld",
+          "title": "Lecturer"
+        },
+        {
+          "name": "Ted Batchman",
+          "title": "Emeritus Professor/Dean"
+        },
+        {
+          "name": "Bruce Johnson",
+          "title": "Emeritus Professor"
+        },
+        {
+          "name": "John Kleppe",
+          "title": "Emeritus Professor"
+        },
+        {
+          "name": "Banmali Rawat",
+          "title": "Emeritus Professor"
+        },
+        {
+          "name": "Andrzej Trzynadlowski",
+          "title": "Emeritus Professor"
+        },
+        {
+          "name": "Bill Avery",
+          "title": "Adjunct Professor"
+        },
+        {
+          "name": "Mohamed Ben Idris",
+          "title": "Adjunct Professor"
+        }
+      ],
+      "Department of Mechanical Engineering": [
+        {
+          "name": "Petros Voulgaris",
+          "title": "Chair, Founding Aerospace Program Director, and Victor LaMar Lockhart Professor"
+        },
+        {
+          "name": "Miles Greiner",
+          "title": "Foundation Professor"
+        },
+        {
+          "name": "Matteo Aureli",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Lei Cao",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Cahit Evrensel",
+          "title": "Associate Professor and ASME Fellow"
+        },
+        {
+          "name": "James Hanna",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Pradeep Menezes",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Ryan Tung",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Floris van Breugel",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Eric Wang",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Yan Wang",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Jun Zhang",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Yifei Jin",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Aditya G. Nair",
+          "title": "Assistant Professor, Aerospace Engineering"
+        },
+        {
+          "name": "Mustafa Hadj-Nacer",
+          "title": "Research Associate Professor"
+        }
+      ]
+    },
+    "College of Liberal Arts": {
+      "Office of the Dean": [
+        {
+          "name": "Casilde A. Isabelli, Ph.D.",
+          "title": "Dean, College of Liberal Arts; Professor, Hispanic Linguistics"
+        },
+        {
+          "name": "Christopher Williams, Ph.D.",
+          "title": "Associate Dean; Associate Professor of Philosophy"
+        },
+        {
+          "name": "Erin E. Edgington, Ph.D.",
+          "title": "Assistant Dean, Curriculum, Assessment, and Student Engagement; Associate Professor of Anthropology"
+        },
+        {
+          "name": "Kristi Van Gorder",
+          "title": "Assistant Dean, Academic Success"
+        }
+      ],
+      "School of the Arts": {
+        "Leadership": [
+          {
+            "name": "Reed Chamberlin, DMA",
+            "title": "Director, School of Music; Associate Professor of Conducting; Director of Bands"
+          },
+          {
+            "name": "Adi Cabral, MFA",
+            "title": "Department Chair; Associate Professor of Theatre"
+          },
+          {
+            "name": "Kelly Chorpening, MFA",
+            "title": "Chair; Professor of Art"
+          },
+          {
+            "name": "Stephanie Gibson, M.A.",
+            "title": "Director, John and Geraldine Lilley Museum of Art"
+          },
+          {
+            "name": "Larry Engstrom, DMA",
+            "title": "Emeritus Director, School of the Arts; Emeritus Professor of Music and Trumpet"
+          },
+          {
+            "name": "Tamara Scronce, MFA",
+            "title": "Emerita Director, School of the Arts; Emerita Associate Professor, Art; Emerita Area Head, Sculpture"
+          }
+        ],
+        "Department of Art, Art History, and Design": [
+          {
+            "name": "Kelly Chorpening, MFA",
+            "title": "Chair; Professor of Art"
+          },
+          {
+            "name": "Jane Davidson, Ph.D.",
+            "title": "Professor, History of Art - Medieval through 18th century"
+          },
+          {
+            "name": "Peter Goin, MFA",
+            "title": "Foundation Professor of Art; Photography/Time-Based Media"
+          },
+          {
+            "name": "Rebekah Bogard, MFA",
+            "title": "Associate Professor; Area Head of Ceramics"
+          },
+          {
+            "name": "Tyler Calkin, MFA",
+            "title": "Associate Professor; Area Head of Digital Media"
+          },
+          {
+            "name": "Miya Hannan, MFA",
+            "title": "Associate Professor; Area Head of Drawing; Graduate Director of Master of Fine Arts"
+          },
+          {
+            "name": "Eunkang Koh, MFA",
+            "title": "Associate Professor; Area Head of Printmaking"
+          },
+          {
+            "name": "Brett Van Hoesen, Ph.D.",
+            "title": "Associate Professor; Area Head of Art History"
+          },
+          {
+            "name": "Juan Carlos Guerrero Hernández, Ph.D.",
+            "title": "Assistant Professor of History of Art"
+          },
+          {
+            "name": "Matt Franks",
+            "title": "Teaching Assistant Professor Head of Sculpture Area"
+          },
+          {
+            "name": "Ivy Guild, MFA",
+            "title": "Teaching Assistant Professor, Head of Visual Foundations"
+          },
+          {
+            "name": "Ahren Hertel, MFA",
+            "title": "Teaching Assistant Professor, Area Head of Painting"
+          },
+          {
+            "name": "Sam Buchanan",
+            "title": "Lecturer, Printmaking, Visual Foundations"
+          },
+          {
+            "name": "Scott Hinton, MFA",
+            "title": "Coordinator of Digital Labs and Faculty Research"
+          },
+          {
+            "name": "Austin Pratt, MFA",
+            "title": "Curator & Manager, University Galleries; Faculty and Program Assistant, MFA-Interdisciplinary Art Program; Instructor, Studio Art"
+          },
+          {
+            "name": "Edward Martinez",
+            "title": "Emeritus Associate Professor and Chair of Art, Emeritus Area Head of Printmaking"
+          },
+          {
+            "name": "Michael Sarich, MFA",
+            "title": "Emeritus Associate Professor; Emeritus Area Head of Painting"
+          }
+        ],
+        "School of Music": [
+          {
+            "name": "Kevin Miescke",
+            "title": "Bachelor of Arts in Music, Bachelor of Music in Jazz & Improvisational Music, Music Minor, Music Industry Minor Advisor"
+          },
+          {
+            "name": "Kate Pollard",
+            "title": "Music Education BM Advisor"
+          },
+          {
+            "name": "Eric Fassbender",
+            "title": "Bachelor of Music Applied (Instrumental) Advisor"
+          },
+          {
+            "name": "Adam Benjamin, MFA",
+            "title": "Associate Professor of Jazz Studies and Piano"
+          },
+          {
+            "name": "Josh D. Reed, DMA",
+            "title": "Assistant Professor of Jazz Trumpet"
+          }
+        ],
+        "Department of Theatre and Dance": [
+          {
+            "name": "Adi Cabral, MFA",
+            "title": "Department Chair; Associate Professor of Theatre"
+          },
+          {
+            "name": "Ann M. Archbold, MFA",
+            "title": "Professor; Theatre & Dance"
+          },
+          {
+            "name": "Cari Cunningham, MFA",
+            "title": "Associate Professor, Dance"
+          },
+          {
+            "name": "Rosie Trump, MFA",
+            "title": "Associate Professor of Dance"
+          },
+          {
+            "name": "Eve Allen Garza, MFA",
+            "title": "Teaching Associate Professor, Dance"
+          },
+          {
+            "name": "Nate Hodges, MFA",
+            "title": "Associate Teaching Professor, Dance"
+          },
+          {
+            "name": "Rosie Brownlow-Calkin, MFA",
+            "title": "Assistant Professor of Theatre"
+          },
+          {
+            "name": "CJ Greer, MFA, MM",
+            "title": "Assistant Professor of Voice (Musical Theatre)"
+          },
+          {
+            "name": "Sandra Neace, MFA",
+            "title": "Assistant Teaching Professor of Theatre"
+          }
+        ]
+      },
+      "Department of Anthropology": [
+        {
+          "name": "Louis Forline",
+          "title": "Regular Faculty"
+        },
+        {
+          "name": "Erin E. Edgington, Ph.D.",
+          "title": "Associate Professor of Anthropology"
+        }
+      ],
+      "Department of Communication Studies": [
+        {
+          "name": "James \"Jim\" Cherney, Ph.D.",
+          "title": "Associate Professor and Interim Chair"
+        },
+        {
+          "name": "Jimmie Manning, Ph.D.",
+          "title": "Professor"
+        },
+        {
+          "name": "Shawn Marsh, Ph.D.",
+          "title": "Director of Judicial Studies; Professor of Communication Studies and Social Psychology"
+        },
+        {
+          "name": "Amy Pason, Ph.D.",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Evan Brody, Ph.D.",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Benjamin Krueger, PhD",
+          "title": "Teaching Assistant Professor; Graduate Director"
+        },
+        {
+          "name": "Gordon Zimmerman, Ph.D.",
+          "title": "Professor, Emeritus"
+        }
+      ],
+      "Department of Criminal Justice": [
+        {
+          "name": "Jennifer Lanterman",
+          "title": "Director, School of Social Research and Justice Studies; Associate Professor of Criminal Justice"
+        },
+        {
+          "name": "Monica Miller, Ph.D., J.D.",
+          "title": "Interdisciplinary Social Psychology Program Director and Foundation Professor"
+        },
+        {
+          "name": "James Richardson, Ph.D., J.D.",
+          "title": "Emeritus Foundation Professor of Sociology and Judicial Studies"
+        },
+        {
+          "name": "Nicole “Nikki” Garlic, J.D., LL.M.",
+          "title": "Lecturer II"
+        }
+      ],
+      "Department of English": [
+        {
+          "name": "Lynda C. Olman, Ph.D.",
+          "title": "Professor; Chair of English"
+        },
+        {
+          "name": "Eric Rasmussen, Ph.D.",
+          "title": "Foundation Professor of English"
+        },
+        {
+          "name": "Christopher Coake, MFA",
+          "title": "Professor, Director of Residential MFA Program in Creative Writing"
+        },
+        {
+          "name": "Valerie Fridland, Ph.D.",
+          "title": "Professor"
+        },
+        {
+          "name": "Ann Keniston, Ph.D.",
+          "title": "Professor"
+        },
+        {
+          "name": "Ashley Marshall, Ph.D.",
+          "title": "Professor"
+        },
+        {
+          "name": "Chris Earle, Ph.D.",
+          "title": "Associate Professor; Associate Chair, English"
+        },
+        {
+          "name": "Katherine Fusco, Ph.D.",
+          "title": "Associate Professor of English; Chair of Gender, Race and Identity"
+        },
+        {
+          "name": "Steven Gehrke, Ph.D.",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Jennifer Hill, Ph.D.",
+          "title": "Associate Professor of English"
+        },
+        {
+          "name": "Ian Clayton, Ph.D.",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "James Mardock, Ph.D.",
+          "title": "Associate Professor, Director of Graduate Studies"
+        },
+        {
+          "name": "Elisabeth Miller, Ph.D.",
+          "title": "Associate Professor, English; Director of Writing and Speaking in the Disciplines"
+        },
+        {
+          "name": "Daniel Ryan Morse, Ph.D.",
+          "title": "Associate Professor of English"
+        },
+        {
+          "name": "Jared Stanley, MFA",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Jim Webber, Ph.D.",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Nasia Anam, Ph.D.",
+          "title": "Assistant Professor; 2022-2024 Joe Crowley Distinguished Professor of the Humanities"
+        },
+        {
+          "name": "Guadalupe Escobar, Ph.D.",
+          "title": "Assistant Professor of Gender, Race, and Identity and English"
+        },
+        {
+          "name": "Ignacio Montoya, Ph.D.",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Anushka Peres, Ph.D.",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "Jenna A. Altherr Flores, Ph.D.",
+          "title": "Director, Office of Undergraduate Fellowships; Teaching Assistant Professor, Department of English"
+        },
+        {
+          "name": "Casey Bell, MFA",
+          "title": "Teaching Assistant Professor"
+        },
+        {
+          "name": "Sean Collins, Ph.D.",
+          "title": "Teaching Assistant Professor, English"
+        },
+        {
+          "name": "Beth Greene",
+          "title": "Teaching Assistant Professor"
+        },
+        {
+          "name": "Patrick Harris, Ph.D.",
+          "title": "Teaching Assistant Professor"
+        },
+        {
+          "name": "AnnElise Hatjakes, Ph.D.",
+          "title": "Teaching Assistant Professor"
+        },
+        {
+          "name": "Cody Hunter",
+          "title": "Teaching Assistant Professor"
+        },
+        {
+          "name": "Talley Kayser",
+          "title": "Teaching Assistant Professor"
+        },
+        {
+          "name": "Joanne Mallari, MFA",
+          "title": "Teaching Assistant Professor; Assistant Director, Core Writing Program"
+        },
+        {
+          "name": "Chris Mays, Ph.D.",
+          "title": "Associate Professor, 2024-2026 Joe Crowley Distinguished Professor of the Humanities"
+        },
+        {
+          "name": "Katie Miller, Ph.D.",
+          "title": "Teaching Assistant Professor; Interim Director of Core Writing"
+        },
+        {
+          "name": "Jessica Nelson",
+          "title": "Teaching Assistant Professor; Undergraduate Advisor"
+        },
+        {
+          "name": "Ellery Sills",
+          "title": "Teaching Assistant Professor"
+        },
+        {
+          "name": "Mahmoud Abdi Tabari",
+          "title": "Teaching Assistant Professor"
+        },
+        {
+          "name": "Thomas Wright",
+          "title": "Teaching Assistant Professor"
+        },
+        {
+          "name": "Neil Stotts",
+          "title": "Lecturer II; Undergraduate Advisor"
+        },
+        {
+          "name": "Kristina Bergen",
+          "title": "Lecturer"
+        },
+        {
+          "name": "Karen Herschbach",
+          "title": "Lecturer II"
+        },
+        {
+          "name": "Aaron Schneeberger",
+          "title": "Lecturer"
+        },
+        {
+          "name": "Cassandra Stephens-Johnson",
+          "title": "Term Lecturer"
+        },
+        {
+          "name": "Dave Burnham",
+          "title": "Postdoctoral Fellow"
+        }
+      ],
+      "Department of Gender, Race, and Identity": [
+        {
+          "name": "Deborah Boehm",
+          "title": "Foundation Professor of Gender, Race, and Identity and Anthropology; Graduate Director, GRI"
+        },
+        {
+          "name": "Emily K. Hobson, Ph.D.",
+          "title": "Associate Professor of Gender, Race, and Identity and History; National Humanities Center Fellow, 2024-25"
+        },
+        {
+          "name": "Debra Harry, Ph.D.",
+          "title": "Associate Professor of Gender, Race, and Identity"
+        },
+        {
+          "name": "Guadalupe Escobar, Ph.D.",
+          "title": "Assistant Professor of Gender, Race, and Identity and English"
+        },
+        {
+          "name": "Vadricka Etienne, Ph.D.",
+          "title": "Assistant Professor of Gender, Race, and Identity and Sociology"
+        },
+        {
+          "name": "Prisca Gayles, Ph.D.",
+          "title": "Assistant Professor of Sociology and Gender, Race, and Identity"
+        },
+        {
+          "name": "Lydia Huerta, Ph.D.",
+          "title": "Assistant Professor of Gender, Race, and Identity"
+        },
+        {
+          "name": "Matt Means, PS",
+          "title": "Dean, Honors College; Associate Professor of Honors (GRI Faculty Associate)"
+        }
+      ],
+      "Department of History": [
+        {
+          "name": "Greta de Jong, Ph.D.",
+          "title": "Department Chair; University Foundation Professor"
+        },
+        {
+          "name": "Edward \"Ned\" Schoolman, Ph.D.",
+          "title": "Department Vice Chair; Professor"
+        },
+        {
+          "name": "Dennis Dworkin, Ph.D.",
+          "title": "Professor"
+        },
+        {
+          "name": "Eugene Y. Park, Ph.D.",
+          "title": "Professor"
+        },
+        {
+          "name": "Christopher Church, Ph.D.",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Linda Curcio-Nagy, Ph.D.",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Jacob Dorman, Ph.D.",
+          "title": "Associate Professor of Core Humanities and History"
+        },
+        {
+          "name": "Emily K. Hobson, Ph.D.",
+          "title": "Associate Professor of Gender, Race, and Identity and History"
+        },
+        {
+          "name": "Renata Keller, Ph.D.",
+          "title": "Associate Professor; Undergraduate Advisor"
+        },
+        {
+          "name": "Sarah Keyes, Ph.D.",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Eric Nystrom, Ph.D.",
+          "title": "Associate Professor; Graduate Program Director"
+        },
+        {
+          "name": "Meredith Oda, Ph.D.",
+          "title": "Grace A. Griffen Endowed Chair in American History; Associate Professor"
+        },
+        {
+          "name": "Hugh Shapiro, Ph.D.",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Cameron B. Strang, Ph.D.",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Charles Tshimanga-Kashama, Ph.D.",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Barbara Walker, Ph.D.",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Michael Damien Aguirre, Ph.D.",
+          "title": "Assistant Professor"
+        },
+        {
+          "name": "James McSpadden, Ph.D.",
+          "title": "Assistant Professor; Jean Sanford Distinguished Professor of the Humanities, 2024-26"
+        },
+        {
+          "name": "Jennifer Ng, Ph.D.",
+          "title": "Teaching Assistant Professor"
+        },
+        {
+          "name": "Christopher L. von Nagy, Ph.D.",
+          "title": "Head, Shared History; Teaching Associate Professor"
+        },
+        {
+          "name": "Scott E. Casper, Ph.D.",
+          "title": "Professor Emeritus"
+        },
+        {
+          "name": "Richard Davies, Ph.D.",
+          "title": "Distinguished Professor Emeritus"
+        },
+        {
+          "name": "Jerome Edwards, Ph.D.",
+          "title": "Professor Emeritus"
+        },
+        {
+          "name": "Neal Ferguson, Ph.D.",
+          "title": "Associate Professor Emeritus"
+        },
+        {
+          "name": "Martha Hildreth, Ph.D.",
+          "title": "Associate Professor Emerita"
+        },
+        {
+          "name": "Bruce Moran, Ph.D.",
+          "title": "University Foundation Professor Emeritus"
+        },
+        {
+          "name": "C. Elizabeth Raymond, Ph.D.",
+          "title": "Professor Emerita"
+        },
+        {
+          "name": "William D. Rowley, Ph.D.",
+          "title": "Professor Emeritus"
+        },
+        {
+          "name": "Kevin Stevens, Ph.D.",
+          "title": "Associate Professor Emeritus"
+        },
+        {
+          "name": "Anita Watson, Ph.D.",
+          "title": "Lecturer Emerita; Coordinator, Shared History"
+        }
+      ],
+      "Department of Philosophy": [
+        {
+          "name": "David Rondel, Ph.D.",
+          "title": "Department Chair; Associate Professor"
+        },
+        {
+          "name": "Christopher Williams, Ph.D.",
+          "title": "Associate Dean; Associate Professor of Philosophy"
+        },
+        {
+          "name": "Benjamin Young, Ph.D.",
+          "title": "Associate Professor; Director of Graduate Studies"
+        },
+        {
+          "name": "Carlos Mariscal, Ph.D.",
+          "title": "Associate Professor"
+        },
+        {
+          "name": "Jason Fisette, Ph.D.",
+          "title": "Associate Teaching Professor; Director of Undergraduate Studies"
+        },
+        {
+          "name": "Ravi Thakral, Ph.D.",
+          "title": "Teaching Assistant Professor"
+        },
+        {
+          "name": "James Smith, M.A.",
+          "title": "Lecturer"
+        },
+        {
+          "name": "Brooke Barnum-Roberts, Ph.D., J.D.",
+          "title": "Instructor"
+        },
+        {
+          "name": "Devin Bray, M.A.",
+          "title": "Instructor"
+        },
+        {
+          "name": "Gary Cage, Ph.D.",
+          "title": "Instructor"
+        },
+        {
+          "name": "Shaun Grekor, M.A.",
+          "title": "Instructor"
+        },
+        {
+          "name": "Paige McAllister, M.A.",
+          "title": "Instructor"
+        },
+        {
+          "name": "Joe McCoy, Ph.D.",
+          "title": "Instructor"
+        },
+        {
+          "name": "Avery Phoenix, M.A.",
+          "title": "Instructor"
+        },
+        {
+          "name": "Brianne Savage",
+          "title": "Instructor"
+        },
+        {
+          "name": "Deborah Achtenberg, Ph.D.",
+          "title": "Professor, Emeritus"
+        },
+        {
+          "name": "Piotr Hoffman, Ph.D.",
+          "title": "Professor, Emeritus"
+        },
+        {
+          "name": "Thomas Nickles, Ph.D.",
+          "title": "Foundation Professor, Emeritus"
+        },
+        {
+          "name": "John C. Kelly, Ph.D.",
+          "title": "Associate Professor, Emeritus"
+        },
+        {
+          "name": "Frank Lucash, Ph.D.",
+          "title": "Associate Professor, Emeritus"
+        },
+        {
+          "name": "Kenneth G. Lucey, Ph.D.",
+          "title": "Professor, Emeritus"
+        }
+      ],
+      "Department of Political Science": [
+        {
+          "name": "Brian Sandoval, J.D.",
+          "title": "University President and Professor of Practice"
+        },
+        {
+          "name": "Carolyn M. Warner, Ph.D.",
+          "title": "Chair; Vail Pittman Professor of Political Science"
+        },
+        {
+          "name": "Jeremy Gelman, Ph.D.",
+          "title": "Associate Professor; Director of Graduate Studies"
+        },
+        {
+          "name": "Callum Ingram, Ph.D.",
+          "title": "Assistant Professor; Director of Undergraduate Studies"
+        },
+        {
+          "name": "Jeffrey Griffin",
+          "title": "Political Science Advisor"
+        }
+      ],
+      "Department of Sociology": [
+        {
+          "name": "Marta Elliott, Ph.D.",
+          "title": "Department Chair; Foundation Professor"
+        },
+        {
+          "name": "Johnson W. Makoba, Ph.D.",
+          "title": "Professor"
+        },
+        {
+          "name": "Colleen Murray, Ph.D.",
+          "title": "Professor, Sociology and Social Psychology; Adjunct Professor, Human Development and Family Science"
+        },
+        {
+          "name": "Jared Bok, Ph.D.",
+          "title": "Associate Professor in Sociology; Director of Undergraduate Studies for Sociology"
+        },
+        {
+          "name": "Clayton Peoples, Ph.D.",
+          "title": "Associate Professor; Director of Graduate Studies"
+        },
+        {
+          "name": "Vadricka Etienne, Ph.D.",
+          "title": "Assistant Professor of Gender, Race, and Identity and Sociology"
+        },
+        {
+          "name": "Prisca Gayles, Ph.D.",
+          "title": "Assistant Professor of Sociology and Gender, Race, and Identity"
+        },
+        {
+          "name": "Casey Scheibling, Ph.D.",
+          "title": "Assistant Professor of Sociology and Social Psychology"
+        },
+        {
+          "name": "Angela M. Lee, Ph.D., M.A., ACUE",
+          "title": "Teaching Assistant Professor, Program Director"
+        },
+        {
+          "name": "Berch Berberoglu, Ph.D.",
+          "title": "Foundation Professor of Sociology, Emeritus"
+        },
+        {
+          "name": "M.D.R. \"Mariah\" Evans, Ph.D.",
+          "title": "Professor Emerita"
+        },
+        {
+          "name": "James Richardson, Ph.D., J.D.",
+          "title": "Emeritus Foundation Professor of Sociology and Judicial Studies"
+        },
+        {
+          "name": "Mary Stewart, Ph.D.",
+          "title": "Professor Emerita"
+        }
+      ],
+      "Department of World Languages and Literatures": [
+        {
+          "name": "Darrell B. Lockhart, Ph.D.",
+          "title": "Vice Provost for Faculty Affairs; Professor, Spanish"
+        },
+        {
+          "name": "Isabelle Favre, Ph.D.",
+          "title": "Professor, French"
+        },
+        {
+          "name": "Emma Sepulveda, Ph.D.",
+          "title": "Professor of Spanish, Emerita"
+        },
+        {
+          "name": "Wifredo de Ràfols, Ph.D.",
+          "title": "Associate Professor, Spanish; Graduate Director"
+        },
+        {
+          "name": "Mar Inestrillas, Ph.D.",
+          "title": "Associate Professor, Spanish"
+        },
+        {
+          "name": "Daniel Enrique Perez, Ph.D.",
+          "title": "Associate Professor, Spanish"
+        },
+        {
+          "name": "Mariana-Cecilia Velázquez, Ph.D.",
+          "title": "Associate Professor, Spanish"
+        },
+        {
+          "name": "Elizabeth Villalobos, Ph.D.",
+          "title": "Associate Professor, Spanish Literature"
+        },
+        {
+          "name": "Jodie Barker, Ph.D.",
+          "title": "Teaching Associate Professor, French; French Section Head"
+        },
+        {
+          "name": "Erica Westhoff, Ph.D.",
+          "title": "Teaching Associate Professor, Italian"
+        },
+        {
+          "name": "Michelle Wilson, Ph.D.",
+          "title": "Teaching Professor, Spanish; Undergraduate Spanish Advisor"
+        },
+        {
+          "name": "Elena Shimanskaya",
+          "title": "Assistant Professor, French; Basic French Language Program coordinator"
+        },
+        {
+          "name": "Paul McElhinny, Ph.D.",
+          "title": "Teaching Assistant Professor, French"
+        },
+        {
+          "name": "Lin Li Hall, M.A.",
+          "title": "Senior Lecturer, Chinese"
+        },
+        {
+          "name": "Pedro M. Gómez, M.A.",
+          "title": "Senior Lecturer, Spanish; Translation Minor Advisor"
+        },
+        {
+          "name": "Yoshie Kadowaki, M.A.",
+          "title": "Senior Lecturer, Japanese: Japanese Minor Advisor (Spring)"
+        },
+        {
+          "name": "Anna Kalminskaia, M.A.",
+          "title": "Senior Lecturer, Spanish; Undergraduate Spanish Advisor"
+        },
+        {
+          "name": "Kathleen \"Kathy\" Leonard, M.A.",
+          "title": "Principal Lecturer, Spanish"
+        },
+        {
+          "name": "Mark Aaron Kay, M.A.",
+          "title": "Lecturer, Spanish; Spanish Language Undergraduate Mentor; Spanish Coordinator, Collegiate Academy"
+        },
+        {
+          "name": "Soichiro Motohashi, M.A.",
+          "title": "Lecturer, Japanese; Japanese Minor Advisor (Fall)"
+        },
+        {
+          "name": "Roberto Ortiz, M.A.",
+          "title": "Lecturer, Spanish; Spanish Heritage Language Advisor; Spanish for the Professions Track Advisor"
+        },
+        {
+          "name": "María Aguilar, M.A.",
+          "title": "Instructor, Spanish"
+        },
+        {
+          "name": "Ralph Burns",
+          "title": "Instructor, Paiute"
+        },
+        {
+          "name": "Natalia Cardillo, MJM",
+          "title": "Instructor, Spanish"
+        },
+        {
+          "name": "Stephanie Cuevas, M.A.",
+          "title": "Instructor, Spanish"
+        },
+        {
+          "name": "Deena Elshabrawy, M.D.",
+          "title": "Instructor, Middle East studies"
+        },
+        {
+          "name": "Ana Gallegos-Escamilla, M.A.",
+          "title": "Instructor, Spanish"
+        },
+        {
+          "name": "Roger Gray, M.A.",
+          "title": "Instructor, German"
+        },
+        {
+          "name": "Merritt Harper",
+          "title": "Instructor, American Sign Language"
+        },
+        {
+          "name": "Enos Aral Interiano, M.A.",
+          "title": "Instructor, Spanish"
+        },
+        {
+          "name": "Andrea Juillerat-Olvera, M.F.A.",
+          "title": "American Sign Language Instructor and Interpreter"
+        },
+        {
+          "name": "Erika Kennedy, M.A.",
+          "title": "Instructor, Italian"
+        },
+        {
+          "name": "Matthew (Mateo) King, M.A.",
+          "title": "Instructor, Spanish"
+        },
+        {
+          "name": "Frank M. Martinez, M.A.",
+          "title": "Instructor, Spanish"
+        },
+        {
+          "name": "Anthony Magaña, M.A.",
+          "title": "Instructor, Spanish"
+        },
+        {
+          "name": "Keanu Rodríguez, M.A.",
+          "title": "Instructor, Spanish"
+        },
+        {
+          "name": "María Fernanda Rugama, M.A.",
+          "title": "Instructor, Spanish"
+        },
+        {
+          "name": "Ding Xiu",
+          "title": "Instructor, Chinese"
+        }
+      ]
+    },
+    "College of Science": {
+      "Office of the Dean and Department Chairs": [
+        {
+          "name": "Anne Leonard",
+          "title": "Professor, Biology Department Chair"
+        },
+        {
+          "name": "Ana de Bettencourt-Dias",
+          "title": "Susan Magee and Gary Clemons Professor of Chemistry; Foundation Professor, Chemistry Department Chair"
+        },
+        {
+          "name": "Adam Csank",
+          "title": "Associate Professor, Geography Department Chair"
+        },
+        {
+          "name": "Paula Noble",
+          "title": "Professor, Geological Sciences and Engineering Department Chair"
+        },
+        {
+          "name": "Tin-Yau Tam",
+          "title": "Seneca C. and Mary B. Weeks Chair in Mathematics, Mathematics and Statistics Department Chair"
+        },
+        {
+          "name": "Joshua Williams",
+          "title": "Associate Professor, Physics Department Chair"
+        },
+        {
+          "name": "Michael Crognale",
+          "title": "Professor, Psychology Department Chair"
+        },
+        {
+          "name": "Simon Jowitt",
+          "title": "Arthur Brant Chair in Exploration Geology, Professor, Nevada State Geologist and Director of the Nevada Bureau of Mines and Geology"
+        },
+        {
+          "name": "Christie Rowe",
+          "title": "Professor, Director, Nevada Seismological Laboratory"
+        }
+      ],
+      "Mackay School of Earth Sciences and Engineering": {
+        "Department of Geography": [
+          {
+            "name": "Adam",
+            "title": null
+          }
+        ]
+      }
+    }
+  }
+}
