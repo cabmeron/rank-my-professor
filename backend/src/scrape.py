@@ -1,6 +1,8 @@
+import json
 import requests
 from pprint import pprint
 from dataclasses import dataclass
+from data_loader import load_school_json_file
 
 @dataclass(frozen=True)
 class parameterized_request:
@@ -43,3 +45,24 @@ def query_google_scholar(preq: parameterized_request) -> dict:
     else:
         print(f"Request failed with status code: {response.status_code}")
         print(f"Response Body: {response.content}")
+
+def compute_unr_cse_employees():
+
+    data = load_school_json_file('../data/colleges/unr/COE_scraped_formatted')
+
+    profiles = []
+    
+    for profile in data['profiles']:
+        for author in profile['authors']:
+            profiles.append(
+                {
+                    "cited_by": author['cited_by'],
+                    "name": author['name'],
+                    "gs_link": author['link']
+                }
+            )
+    
+    sorted_profiles = sorted(profiles, key=lambda tup: -tup['cited_by']) 
+
+    with open('unr-cse.json', 'w') as f:
+        json.dump(sorted_profiles, f, indent=5)
