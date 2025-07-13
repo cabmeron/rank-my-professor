@@ -25,15 +25,107 @@
     </section>
 
     <section>
-        <div id="scroll">
-            <h3> Computer Science & Engineering </h3>
-            <table id="cse-table"> </table>
-            
-            <h3> Civil & Environmental Engineering</h3>
-            <table id="cee-table"></table>
 
-            <h3> Chemical and Materials Engineering</h3>
-            <table id="cheme-table"></table>
+        <div class="tab-buttons">
+            <button id="engineering-tab-button" class="tab-button active" onclick="open_tab('engineering-tab', event)"> Engineering </button>
+            <button id="science-tab-button" class="tab-button" onclick="open_tab('science-tab', event)"> Science </button>
+            <button id="cabnr-tab-button" class="tab-button" onclick="open_tab('cabnr-tab', event)"> CABNR </button>
+            <button id="business-tab-button" class="tab-button" onclick="open_tab('business-tab', event)"> Business </button>
+        </div>
+
+        <div id="scroll">
+
+            <div id="engineering-tab" class="tab">
+
+                <details open>
+                    <summary> Computer Science & Engineering </summary>
+                    <table id="cse-table"> </table>
+                </details>
+                
+                <details open>
+                    <summary> Civil & Environmental Engineering </summary>
+                    <table id="cee-table"></table>
+                </details>
+                
+                <details open>
+                    <summary> Chemical and Materials Engineering </summary>
+                    <table id="cheme-table"></table>
+                </details>
+                
+                <details open>
+                    <summary> Mechanical Engineering </summary>
+                    <table id="meche-table"></table>
+                </details>
+
+                <details open>
+                    <summary> Electrical Engineering </summary>
+                    <table id="ee-table"></table>
+                </details>
+
+            </div>
+
+            <div id="science-tab" class="tab" style="display: none;">
+
+                <details open>
+                    <summary> Biology </summary>
+                    <table id="bio-table"> </table>
+                </details>
+
+                <details open>
+                    <summary> Atmospheric </summary>
+                    <table id="atm-table"> </table>
+                </details>
+
+                <details open>
+                    <summary> Chemistry </summary>
+                    <table id="chem-table"> </table>
+                </details>
+
+                <details open>
+                    <summary> Geography </summary>
+                    <table id="geog-table"> </table>
+                </details>
+
+                <details open>
+                    <summary> Geology </summary>
+                    <table id="geol-table"> </table>
+                </details>
+
+                <details open>
+                    <summary> Mathematics </summary>
+                    <table id="math-table"> </table>
+                </details>
+                
+                <details open>
+                    <summary> Physics </summary>
+                    <table id="phys-table"> </table>
+                </details>
+
+            </div>
+
+            <div id="cabnr-tab" class="tab" style="display: none;">
+
+                <details open>
+                    <summary> Veternary and Rangeland </summary>
+                    <table id="avrs-table"> </table>
+                </details>
+
+                <details open>
+                    <summary> Biochemistry </summary>
+                    <table id="biochem-table"> </table>
+                </details>
+
+                <details open>
+                    <summary> Natural Resources & Environment </summary>
+                    <table id="nres-table"> </table>
+                </details>
+
+            </div>
+
+            <div id="business-tab" class="tab" style="display: none;">
+                UNFINISHED. PLEASE IMPLEMENT
+            </div>
+
         </div>
     </section>
     
@@ -44,19 +136,39 @@
     #header { overflow: hidden; background-color: white; margin-bottom: 10px; }
     #scroll { overflow-y: auto; height: 80vh; scrollbar-width: thin; }
 
-    body{
-        margin-left: auto;
-        margin-right: auto;
-        width: 23em;
-    }
+    body { margin-left: auto; margin-right: auto; width: 23em; }
+    table { margin-top: 5px; }
+    summary { font-weight:bold; font-size: larger; border-radius: 10px; padding: 3px; }
+    summary:hover { background-color: rgba(233, 233, 233, 0.232); }
 
+    .tab-buttons { padding-bottom: 10px; }
+    .tab-button { border-radius: 3; border-color: black; background-color: whitesmoke; cursor: pointer;}
+    .tab-button.active { border-radius: 3; border-color: black; background-color: rgba(65, 244, 146, 0.411); }
+    
 </style>
 
 <script>
-
+    
+    // COLLEGE OF ENGINEERING DATA LOADS
     document.addEventListener("DOMContentLoaded", get_json_data, false);
     document.addEventListener("DOMContentLoaded", get_json_data2, false);
     document.addEventListener("DOMContentLoaded", get_json_data3, false);
+    document.addEventListener("DOMContentLoaded", get_json_data4, false);
+    document.addEventListener("DOMContentLoaded", get_json_data5, false);
+
+    // COLLEGE OF SCIENCE DATA LOADS
+    document.addEventListener("DOMContentLoaded", get_json_data6, false);
+    document.addEventListener("DOMContentLoaded", get_json_data7, false);
+    document.addEventListener("DOMContentLoaded", get_json_data8, false);
+    document.addEventListener("DOMContentLoaded", get_json_data9, false);
+    document.addEventListener("DOMContentLoaded", get_json_data10, false);
+    document.addEventListener("DOMContentLoaded", get_json_data11, false);
+    document.addEventListener("DOMContentLoaded", get_json_data12, false);
+
+    // COLLEGE OF AG & BIOTECH DATA LOADS
+    document.addEventListener("DOMContentLoaded", get_json_data13, false);
+    document.addEventListener("DOMContentLoaded", get_json_data14, false);
+    document.addEventListener("DOMContentLoaded", get_json_data15, false);
 
     async function get_json_data()
     {
@@ -143,6 +255,342 @@
         
     }
 
+    async function get_json_data4()
+    {
+        var fetch_meta_data = { mode: 'cors', headers: {'Access-Control-Allow-Origin': '*'} }
+        var url = "http://127.0.0.1:8000/schools/unr/meche";
+
+        try
+        {
+            const response = await fetch(url);
+
+            if(!response.ok)
+            {
+                throw new Error(`Response Status: ${response.status}`);
+            }
+
+            const json = await response.json();
+
+            console.log(json);
+
+            append_json_data(json, 'meche-table');
+
+        }
+        catch(e)
+        {
+            console.error(e);
+        }
+        
+    }
+
+    async function get_json_data5()
+    {
+        var fetch_meta_data = { mode: 'cors', headers: {'Access-Control-Allow-Origin': '*'} }
+        var url = "http://127.0.0.1:8000/schools/unr/ee";
+
+        try
+        {
+            const response = await fetch(url);
+
+            if(!response.ok)
+            {
+                throw new Error(`Response Status: ${response.status}`);
+            }
+
+            const json = await response.json();
+
+            console.log(json);
+
+            append_json_data(json, 'ee-table');
+
+        }
+        catch(e)
+        {
+            console.error(e);
+        }
+        
+    }
+
+    async function get_json_data6()
+    {
+        var fetch_meta_data = { mode: 'cors', headers: {'Access-Control-Allow-Origin': '*'} }
+        var url = "http://127.0.0.1:8000/schools/unr/bio";
+
+        try
+        {
+            const response = await fetch(url);
+
+            if(!response.ok)
+            {
+                throw new Error(`Response Status: ${response.status}`);
+            }
+
+            const json = await response.json();
+
+            console.log(json);
+
+            append_json_data(json, 'bio-table');
+
+        }
+        catch(e)
+        {
+            console.error(e);
+        }
+        
+    }
+
+    async function get_json_data7()
+    {
+        var fetch_meta_data = { mode: 'cors', headers: {'Access-Control-Allow-Origin': '*'} }
+        var url = "http://127.0.0.1:8000/schools/unr/chem";
+
+        try
+        {
+            const response = await fetch(url);
+
+            if(!response.ok)
+            {
+                throw new Error(`Response Status: ${response.status}`);
+            }
+
+            const json = await response.json();
+
+            console.log(json);
+
+            append_json_data(json, 'chem-table');
+
+        }
+        catch(e)
+        {
+            console.error(e);
+        }
+        
+    }
+
+    async function get_json_data8()
+    {
+        var fetch_meta_data = { mode: 'cors', headers: {'Access-Control-Allow-Origin': '*'} }
+        var url = "http://127.0.0.1:8000/schools/unr/atm";
+
+        try
+        {
+            const response = await fetch(url);
+
+            if(!response.ok)
+            {
+                throw new Error(`Response Status: ${response.status}`);
+            }
+
+            const json = await response.json();
+
+            console.log(json);
+
+            append_json_data(json, 'atm-table');
+
+        }
+        catch(e)
+        {
+            console.error(e);
+        }
+        
+    }
+
+    async function get_json_data9()
+    {
+        var fetch_meta_data = { mode: 'cors', headers: {'Access-Control-Allow-Origin': '*'} }
+        var url = "http://127.0.0.1:8000/schools/unr/geog";
+
+        try
+        {
+            const response = await fetch(url);
+
+            if(!response.ok)
+            {
+                throw new Error(`Response Status: ${response.status}`);
+            }
+
+            const json = await response.json();
+
+            console.log(json);
+
+            append_json_data(json, 'geog-table');
+
+        }
+        catch(e)
+        {
+            console.error(e);
+        }
+        
+    }
+
+    async function get_json_data10()
+    {
+        var fetch_meta_data = { mode: 'cors', headers: {'Access-Control-Allow-Origin': '*'} }
+        var url = "http://127.0.0.1:8000/schools/unr/geol";
+
+        try
+        {
+            const response = await fetch(url);
+
+            if(!response.ok)
+            {
+                throw new Error(`Response Status: ${response.status}`);
+            }
+
+            const json = await response.json();
+
+            console.log(json);
+
+            append_json_data(json, 'geol-table');
+
+        }
+        catch(e)
+        {
+            console.error(e);
+        }
+        
+    }
+
+    async function get_json_data11()
+    {
+        var fetch_meta_data = { mode: 'cors', headers: {'Access-Control-Allow-Origin': '*'} }
+        var url = "http://127.0.0.1:8000/schools/unr/math";
+
+        try
+        {
+            const response = await fetch(url);
+
+            if(!response.ok)
+            {
+                throw new Error(`Response Status: ${response.status}`);
+            }
+
+            const json = await response.json();
+
+            console.log(json);
+
+            append_json_data(json, 'math-table');
+
+        }
+        catch(e)
+        {
+            console.error(e);
+        }
+        
+    }
+
+    async function get_json_data12()
+    {
+        var fetch_meta_data = { mode: 'cors', headers: {'Access-Control-Allow-Origin': '*'} }
+        var url = "http://127.0.0.1:8000/schools/unr/phys";
+
+        try
+        {
+            const response = await fetch(url);
+
+            if(!response.ok)
+            {
+                throw new Error(`Response Status: ${response.status}`);
+            }
+
+            const json = await response.json();
+
+            console.log(json);
+
+            append_json_data(json, 'phys-table');
+
+        }
+        catch(e)
+        {
+            console.error(e);
+        }
+        
+    }
+
+    async function get_json_data13()
+    {
+        var fetch_meta_data = { mode: 'cors', headers: {'Access-Control-Allow-Origin': '*'} }
+        var url = "http://127.0.0.1:8000/schools/unr/nres";
+
+        try
+        {
+            const response = await fetch(url);
+
+            if(!response.ok)
+            {
+                throw new Error(`Response Status: ${response.status}`);
+            }
+
+            const json = await response.json();
+
+            console.log(json);
+
+            append_json_data(json, 'nres-table');
+
+        }
+        catch(e)
+        {
+            console.error(e);
+        }
+        
+    }
+
+    async function get_json_data14()
+    {
+        var fetch_meta_data = { mode: 'cors', headers: {'Access-Control-Allow-Origin': '*'} }
+        var url = "http://127.0.0.1:8000/schools/unr/avrs";
+
+        try
+        {
+            const response = await fetch(url);
+
+            if(!response.ok)
+            {
+                throw new Error(`Response Status: ${response.status}`);
+            }
+
+            const json = await response.json();
+
+            console.log(json);
+
+            append_json_data(json, 'avrs-table');
+
+        }
+        catch(e)
+        {
+            console.error(e);
+        }
+        
+    }
+
+    async function get_json_data15()
+    {
+        var fetch_meta_data = { mode: 'cors', headers: {'Access-Control-Allow-Origin': '*'} }
+        var url = "http://127.0.0.1:8000/schools/unr/biochem";
+
+        try
+        {
+            const response = await fetch(url);
+
+            if(!response.ok)
+            {
+                throw new Error(`Response Status: ${response.status}`);
+            }
+
+            const json = await response.json();
+
+            console.log(json);
+
+            append_json_data(json, 'biochem-table');
+
+        }
+        catch(e)
+        {
+            console.error(e);
+        }
+        
+    }
+
     function append_json_data(data, table_id)
     {
         var table = document.getElementById(table_id);
@@ -155,6 +603,25 @@
             '<td>' + `<a target="_blank" rel="noopener noreferrer" href="${object.gs_link}"> profile </a>` + '</td>'
             table.appendChild(tr);
         })
+    }
+
+    function open_tab(tab_name, event) {
+
+        var i;
+        var tabs = document.getElementsByClassName("tab");
+        for (i = 0; i < tabs.length; i++) {
+            tabs[i].style.display = "none";
+        }
+
+        var tablinks = document.getElementsByClassName('tab-button');
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].classList.remove("active");
+        }
+        
+        document.getElementById(tab_name).style.display = "block";
+        
+        event.currentTarget.classList.add("active");
+        
     }
 
 </script>
